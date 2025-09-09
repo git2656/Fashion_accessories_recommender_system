@@ -2,3 +2,4 @@ Take input of 1 image and Then based on trained images
 Give 5 most related / similar images 
 Trained Dataset are mostly of fashion accessories like watches,clothes,belts, shoes
 A Deep Learning based Fashion Recommender System using the ResNET50
+DATASET LINK- https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
